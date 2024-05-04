@@ -1,0 +1,4 @@
+1. Updates schemas to validate data
+2. Update routes (include only contacts routes)
+3. Update db methods to include only contacts methods
+4. Update models to create only contacts models
